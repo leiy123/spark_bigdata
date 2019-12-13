@@ -7,8 +7,10 @@ The hardware in the UMBC High Performance Computing Facility (HPCF) is supported
 The program has tested in UMBC big data cluster. The detail information can be found at https://hpcf.umbc.edu/system-description-of-the-big-data-cluster/.  
 
 
-**How to run it:**  
-
+**How to run it:**    
+  
+The data directory needs to be loaded on hdfs before running the program.  
+  
 [For executing orders]  
 
 *spark-submit blackFriday.py*   
