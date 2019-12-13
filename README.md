@@ -12,8 +12,10 @@ The program has tested in UMBC big data cluster. The detail information can be f
 [For executing orders]  
 
 *spark-submit blackFriday.py*   
+  
 After the DStreaming program set up:   
-*hdfs dfs -cp hdfs://worker2.hdp-internal:8020/user/pc71776/data/order_updateProduct.csv hdfs:///user/pc71776/input_project/*  
+*hdfs dfs -cp hdfs:///user/pc71776/data/order_updateProduct.csv hdfs:///user/pc71776/input_project/*  
+  
 Streaming output can be found under hdfs:///user/pc71776/output_project/  
   
 [For update the product stock]  
