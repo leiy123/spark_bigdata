@@ -1,5 +1,5 @@
-# Spark for Bigdata  
-# Course IS 789 (Big Data Fundamentals and Techniques), Fall 2019, UMBC   
+# Spark Bigdata  
+# Course Project for IS 789 (Big Data Fundamentals and Techniques), Fall 2019, UMBC   
 
 
 The hardware in the UMBC High Performance Computing Facility (HPCF) is supported by the U.S. National Science Foundation through the MRI program (grant nos. CNS–0821258, CNS–1228778, and OAC–1726023) and the SCREMS program (grant no. DMS–0821311), with additional substantial support from the University of Maryland, Baltimore County (UMBC). See hpcf.umbc.edu for more information on HPCF and the projects using its resources.  
